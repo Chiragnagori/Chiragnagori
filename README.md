@@ -1,4 +1,4 @@
-![](https://i0.wp.com/emailanalytics.com/wp-content/uploads/2018/10/Are-Satisfied-Employees-More-Productive-1080x675.jpg)
+![](https://raw.githubusercontent.com/Chiragnagori/myimage/master/github%20banner.png)
 <h1 align="center">Hellow 👋, I'm CHIRAG NAGORI</h1>
 <h3 align="center">Aspiring Devops Engineer from India</h3>
 
