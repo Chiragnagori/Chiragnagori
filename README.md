@@ -1,12 +1,12 @@
 ![](https://raw.githubusercontent.com/Chiragnagori/myimage/master/github%20banner.png)
 <h1 align="center">Hellow 👋, I'm CHIRAG NAGORI</h1>
-<h3 align="center">Aspiring Devops Engineer from India</h3>
+<h3 align="center">Devops Engineer</h3>
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m Continuing learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://chiragnagori.github.io/thisischirag/](https://chiragnagori.github.io/thisischirag/)
 
-- 💬 Ask me about **Docker,jenkins,Flask**
+- 💬 Ask me about **DevOps**
 
 - 📫 How to reach me **chiragnagori8001@gmail.com**
 
