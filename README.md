@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **chiragnagori8001@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3AszVjz](https://bit.ly/3AszVjz)
+- 📄 Know about my experiences [Here_is_my_CV](https://bit.ly/chiragnagori)
 
 
 - ⚡ Fun fact **Let's play the game of automation**
